@@ -1,5 +1,5 @@
-<img src="https://img.shields.io/badge/v1.0-black?style=flat-square&label=NEW%20VERSION&labelColor=blue
-">
+![Static Badge](https://img.shields.io/badge/v0.1-black?style=flat-square&label=NEW%20VERSION&labelColor=blue)
+
 
 # GitGuide
 
