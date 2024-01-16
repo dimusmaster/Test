@@ -1,8 +1,3 @@
-README.md
-
-@@ -1,2 +1,53 @@
-# Test
- Индивидуальный проект
 <img src="https://img.shields.io/badge/v1.0-black?style=flat-square&label=NEW%20VERSION&labelColor=blue
 ">
 
@@ -35,3 +30,24 @@ cd GitGuide
 
 ### Пример использования Git
 ```
+# Создание новой ветки
+git branch feature-branch
+
+# Переключение на новую ветку
+git checkout feature-branch
+
+# Внесение изменений и добавление их в индекс
+git add .
+
+# Создание коммита с описанием изменений
+git commit -m "Добавлен новый функционал"
+
+# Пуш изменений на GitHub
+git push origin feature-branch
+```
+
+Для более подробной документации по командам Git, обратитесь к [официальной документации Git](https://docs.github.com/ru "Всплывающая подсказка").
+
+***
+
+### Спасибо за внимание!
